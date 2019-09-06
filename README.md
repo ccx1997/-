@@ -22,3 +22,10 @@
 - Inception的四个版本的区别
 - Dropout 在训练和测试中的区别
 - 编程题：LeetCode 213
+- LSTM与RNN的区别
+- 得到AUC的两种计算方法
+- XGBoost 和 GBDT的区别
+- 树的分裂方式（id3,gini,gdbt,xgboost）
+- XGBoost的损失函数是什么，节点划分准则是什么；
+- 编程题： 给定两个队列，实现一个栈的功能；
+- 编程题： 给定二叉树的前序和中序序列，重构二叉树；
