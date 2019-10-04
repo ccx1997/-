@@ -35,5 +35,13 @@
 - Hough 变换原理（直线和圆检测）
 - 如何计算语义分割的 mIoU（写伪代码）
 - GBDT，XGBoost，LightGBM 比较
+- XGBoost处理缺失值的方法
 - 原始图片中的 RoI 如何映射到 feature map ?
 - KNN和Kmeans的算法中K的含义，K对算法的影响，怎么选择K?
+- 介绍目标检测中的多尺度训练/测试。
+- CCA和PCA的区别
+- BERT和XLNet区别
+- 介绍开运算和闭运算。
+- 牛顿法能用于非凸函数吗？
+- SIFT特征是如何保持旋转不变性的？
+- 为什么DenseNet比ResNet更耗显存？
